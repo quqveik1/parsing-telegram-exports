@@ -1,0 +1,25 @@
+# Publish only the maintained source, documentation, and fictional fixtures.
+*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/SKILL.md
+!/LICENSE
+!/CONTRIBUTING.md
+!/agents/
+!/agents/openai.yaml
+!/scripts/
+!/scripts/parse_export.py
+!/tests/
+!/tests/test_example.py
+!/tests/test_parse_export.py
+!/.github/
+!/.github/workflows/
+!/.github/workflows/tests.yml
+!/examples/
+!/examples/robot-garden/
+!/examples/robot-garden/ABOUT.md
+!/examples/robot-garden/messages.html
+!/examples/robot-garden/messages2.html
+!/examples/robot-garden/messages10.html
+!/examples/robot-garden/seed-map.txt

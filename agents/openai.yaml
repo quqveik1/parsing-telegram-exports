@@ -1,0 +1,4 @@
+interface:
+  display_name: "Parsing Telegram HTML Exports"
+  short_description: "Parse and verify Telegram Desktop HTML exports"
+  default_prompt: "Use $parsing-telegram-exports to parse my Telegram Desktop HTML export and report its verification results."
